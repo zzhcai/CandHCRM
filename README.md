@@ -1,3 +1,5 @@
+This is a forked version of https://github.com/C-and-H/comp30022.
+
 # [CandHCRM](https://github.com/C-and-H/comp30022) &middot; ![version](https://img.shields.io/badge/version-1.3.2-yellow.svg) [![GitHub license](https://img.shields.io/badge/license-GPL3.0-blue.svg)](https://github.com/C-and-H/comp30022/blob/main/LICENSE)
 
 > Customer relationship management (CRM) is a technology for managing all your company’s relationships and interactions with customers and potential customers. The goal is simple: Improve business relationships. A CRM system helps companies stay connected to customers, streamline processes, and improve profitability. (from salesforce.com)
@@ -68,3 +70,8 @@ Confluence URL: https://bingzhej.atlassian.net/wiki/spaces/CH/overview.<br>Pages
 7. Multiple accounts could be allowed in a single browser.
 8. Meeting re-scheduling.
 9. Call does not record voice when sharing the screen. Will try to add one more voice stream, but this would affect the screen to show on the opponent side.
+
+
+# Marks
+
+- 61.7/70 (88.1%)
